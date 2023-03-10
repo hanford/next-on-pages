@@ -1,5 +1,11 @@
 # @cloudflare/next-on-pages
 
+## 0.3.1
+
+### Patch Changes
+
+- 6337b9a: remove redundant vercel install
+
 ## 0.3.0
 
 ### Minor Changes
